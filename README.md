@@ -19,7 +19,7 @@ This project answers all of that. I placed myself in the shoes of a first-time f
 
 - Which US city has the highest taco demand?
 - What taco types and sizes sell the most?
-- When do people eat tacos — and does it change by day?
+- When do people eat tacos, and does it change by day?
 - How does pricing vary across markets?
 - Can toppings be a revenue strategy?
 
@@ -41,7 +41,7 @@ This project answers all of that. I placed myself in the shoes of a first-time f
 
 ## The Recommendation
 
-Open in **Chicago.** Price in the **$7-9 medium range.** Lead with **Chicken and Veggie tacos in large sizes.** Build your margin through **toppings and customization.**
+Open in **Chicago.** Price in the **$7-9 medium range.** Lead with **Chicken and Veggie tacos in large sizes.** Build your margin through **toppings,customization and introducing deals like TACO Thursday.**
 
 ---
 
