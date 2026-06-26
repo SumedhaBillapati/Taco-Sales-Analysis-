@@ -71,7 +71,7 @@ Both sessions reinforced something I believe: good analysis is only useful if yo
 
 ## Files in This Repo
 
-- `Taco_Sales_Analysis.ipynb` — Full Python notebook with data cleaning, EDA, and visualizations
+- `https://colab.research.google.com/drive/1WgdZkJ8CIi42cK3ZnaimtDOr2r2fPwFW?usp=sharing` — Full Python notebook with data cleaning, EDA, and visualizations
 - `Taco_Sales_Analysis_Deck.pdf` — Presentation deck with business narrative and recommendations
 
 ---
