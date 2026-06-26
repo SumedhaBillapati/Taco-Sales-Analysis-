@@ -7,7 +7,7 @@
 
 ## The Setup
 
-Imagine you want to open a taco business in the US. You have ambition, a budget, and a love for tacos — but no idea where to start.
+Imagine you want to open a taco business in the US. You have ambition, a budget, and a love for tacos, but no idea where to start.
 
 Which city do you pick? What tacos do people actually want? When do they order? What should you charge?
 
@@ -19,7 +19,7 @@ This project answers all of that. I placed myself in the shoes of a first-time f
 
 - Which US city has the highest taco demand?
 - What taco types and sizes sell the most?
-- When do people eat tacos, and does it change by day?
+- When do people eat tacos — and does it change by day?
 - How does pricing vary across markets?
 - Can toppings be a revenue strategy?
 
@@ -69,10 +69,10 @@ Both sessions reinforced something I believe: good analysis is only useful if yo
 
 ---
 
-## Files in This Repo
+## Files & Links
 
-- `https://colab.research.google.com/drive/1WgdZkJ8CIi42cK3ZnaimtDOr2r2fPwFW?usp=sharing` — Full Python notebook with data cleaning, EDA, and visualizations
-- `Taco_Sales_Analysis_Deck.pdf` — Presentation deck with business narrative and recommendations
+- 📓 [View Notebook on Google Colab](https://colab.research.google.com/drive/1WgdZkJ8CIi42cK3ZnaimtDOr2r2fPwFW?usp=sharing) — Full Python notebook with data cleaning, EDA, and visualizations
+- 🎨 [View Presentation Deck](https://canva.link/nc1daabfhiqhv9x) — Business narrative and recommendations built in Canva
 
 ---
 
